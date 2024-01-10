@@ -1,1 +1,5 @@
-P
+To jest plik główny pracy 
+Zawiera on spis treści i odnośniki
+
+Pliki rodziałów i spis treści bedą tworzone wposzczególnyvh gałęziach
+
