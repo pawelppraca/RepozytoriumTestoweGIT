@@ -1,0 +1,3 @@
+Rozdział 5
+
+To jest piąty rodział testowego repozytorium - pierwszy commit
