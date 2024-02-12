@@ -1,0 +1,3 @@
+Rozdział 4
+
+To jest czwarty rodział testowego repozytorium - pierwszy commit
