@@ -4,4 +4,5 @@ Zawiera on spis treści i odnośniki
 Pliki rodziałów i spis treści bedą tworzone wposzczególnyvh gałęziach
 
 
-Rodział 1 - Plik  - Rozdział_1.txt
+Rozdział 1 - Plik  - Rozdział_1.txt
+Rozdział 2 - Plik  - rozdział_2.txt
