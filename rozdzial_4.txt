@@ -1,0 +1,5 @@
+Rozdział 4
+
+To jest czwarty rodział testowego repozytorium - pierwszy commit
+To jest czwarty rodział testowego repozytorium - drugi commit
+To jest czwarty rodział testowego repozytorium - trzeci commit
