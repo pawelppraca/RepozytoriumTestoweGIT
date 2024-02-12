@@ -1,2 +1,6 @@
 To jest rodział Pierwszy 
 Dodane zostało to w gałęzi Rodział-1
+
+Treść rozdziału 1 - commit 2
+Treść rozdziału 1 - commit 2
+Treść rozdziału 1 - commit 2
