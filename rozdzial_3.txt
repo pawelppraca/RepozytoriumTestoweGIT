@@ -1,4 +1,4 @@
-Rozdział 3 v.1
+Rozdział 3 v.2
 
 To jest TRZECI rodział testowego repozytorium - pierwszy commit
 To jest TRZECI rodział testowego repozytorium - pierwszy commit
@@ -7,3 +7,6 @@ To jest TRZECI rodział testowego repozytorium - pierwszy commit
 To jest TRZECI rodział testowego repozytorium - drugi commit
 To jest TRZECI rodział testowego repozytorium - drugi commit
 To jest TRZECI rodział testowego repozytorium - drugi commit
+
+To jest TRZECI rodział testowego repozytorium v.2 - trzeci commit
+To jest TRZECI rodział testowego repozytorium v.2 - trzeci commit
