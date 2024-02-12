@@ -6,3 +6,5 @@ Pliki rodziałów i spis treści bedą tworzone wposzczególnyvh gałęziach
 
 Rozdział 1 - Plik  - Rozdział_1.txt
 Rozdział 2 - Plik  - rozdział_2.txt
+Rozdział 3v.1 - Plik  - rozdział_3.txt
+
