@@ -6,5 +6,7 @@ Pliki rodziałów i spis treści bedą tworzone wposzczególnyvh gałęziach
 
 Rozdział 1 - Plik  - Rozdział_1.txt
 Rozdział 2 - Plik  - rozdział_2.txt
-
+Rozdział 3v.2 - Plik  - rozdział_3.txt
 Rozdział 4 - Plik  - rozdział_4.txt
+Rozdział 5 - Plik  - rozdział_5.txt
+Rozdział 6 - Plik  - rozdział_6.txt
