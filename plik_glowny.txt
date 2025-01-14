@@ -8,3 +8,6 @@ Rozdział 1 - Plik  - Rozdział_1.txt
 Rozdział 2 - Plik  - rozdział_2.txt
 
 Rozdział 4 - Plik  - rozdział_4.txt
+
+Rozdział 7 - Plik - rodzial_7.txt
+
