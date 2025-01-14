@@ -12,5 +12,6 @@ Rozdział 5 - Plik  - rozdział_5.txt
 Rozdział 6 - Plik  - rozdział_6.txt
 
 Rozdział 7 - Plik - rodzial_7.txt
+Rozdzial 8 - Plik - Rozdzial_8.txt
 
 Rozdzial 9 - Plik  - rozdzial_9.txt
