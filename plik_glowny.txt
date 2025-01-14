@@ -10,3 +10,6 @@ Rozdział 3v.2 - Plik  - rozdział_3.txt
 Rozdział 4 - Plik  - rozdział_4.txt
 Rozdział 5 - Plik  - rozdział_5.txt
 Rozdział 6 - Plik  - rozdział_6.txt
+
+Rozdział 7 - Plik - rodzial_7.txt
+

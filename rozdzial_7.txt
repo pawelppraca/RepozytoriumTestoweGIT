@@ -1,0 +1,3 @@
+To jest rozdzial 7 zrobiony w Branchu feature/Rodzial_7
+
+Odwołanie jest też wpliku plik_glowny.txt
