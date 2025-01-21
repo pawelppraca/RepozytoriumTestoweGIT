@@ -1,0 +1,1 @@
+T-SQL, dbt, AWS RDS, AWS CDK, SSRS, AWS Glue, Jupyter, Bamboo, Python, AWS Step Functions, Jira, 
