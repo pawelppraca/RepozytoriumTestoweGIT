@@ -34,3 +34,5 @@ Rozdzial 14 - For Squash partialy
 Rodział 15 - For Squash inline branch
 
 Rodział 16 - Równoległy do 15
+
+Rozdzial 17 for squash backward
