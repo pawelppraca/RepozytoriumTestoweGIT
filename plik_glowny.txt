@@ -25,3 +25,4 @@ Testowanie Rebase
     - rodział 10 - feature1 commit f10_1 i f10_2 i przed 
     - Rodział 11 - Commit na Main 
 	
+Rozdział 12 - Commits to Squash
