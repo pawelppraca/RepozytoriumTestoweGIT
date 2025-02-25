@@ -26,3 +26,5 @@ Testowanie Rebase
     - Rodział 11 - Commit na Main 
 	
 Rozdział 12 - Commits to Squash
+
+Rozdział 13  - Commits równoległe do Squash
