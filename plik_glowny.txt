@@ -30,3 +30,5 @@ Rozdział 12 - Commits to Squash
 Rozdział 13  - Commits równoległe do Squash
 
 Rozdzial 14 - For Squash partialy
+
+Rodział 15 - For Squash inline branch
