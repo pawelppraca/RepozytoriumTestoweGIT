@@ -31,4 +31,6 @@ Rozdział 13  - Commits równoległe do Squash
 
 Rozdzial 14 - For Squash partialy
 
+Rodział 15 - For Squash inline branch
+
 Rodział 16 - Równoległy do 15
